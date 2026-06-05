@@ -305,7 +305,8 @@ O candidato deve:
    - A arquitetura escolhida e o porquê das decisoes
    - Quaisquer outros pontos que julgar importantes
 3. **Publicar o video** no seu **YouTube pessoal** com visibilidade **publica**
-4. **Enviar um e-mail** para **guilherme.camarao@icloud.com** contendo:
+4. **Enviar um e-mail** para **guilherme.camarao@itau-unibanco.com.br** contendo:
+   - Assunto: TesteV2 - @SeuNome
    - Link do seu perfil no **LinkedIn**
    - Link do **video no YouTube**
    - Link do **repositorio no GitHub**
